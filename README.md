@@ -1,0 +1,1 @@
+A client-side demo of an anonymous chat client
